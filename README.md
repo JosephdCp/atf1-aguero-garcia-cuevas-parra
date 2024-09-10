@@ -1,1 +1,1 @@
-# atf1-aguero-garcia-cuevas-parra
+La aplicación web desarrollada en el presente trabajo es para la gestión de ventas y almacenamiento de la empresa Gloria. Esto se basa en una arquitectura robusta utilizando Servlets y programación en Java. Esta solución permite a la empresa manejar de manera eficiente sus operaciones diarias, optimizando tanto el proceso de ventas como el control de inventario.
